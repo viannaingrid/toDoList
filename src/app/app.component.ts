@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'listaDeTarefas';
+  public titulo = 'Bem-vindo a Lista de Tarefas App';
+  public subTitulo = 'Organize suas tarefas de forma fácil e rápido';
 }
